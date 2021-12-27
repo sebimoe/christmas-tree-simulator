@@ -1,0 +1,8 @@
+{
+  "name": "christmas-tree-simulator",
+  "version": "1.0.0",
+  "description": "Tree simulator for displaying christmas tree effects",
+  "main": "src/index.js",
+  "author": "sebimoe",
+  "license": "ISC"
+}
